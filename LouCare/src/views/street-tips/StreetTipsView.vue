@@ -189,18 +189,55 @@ const generalInfo = [
 
 
 const streetTips = [
-    'Shelters',
-    'White Flag',
-    'Family & Children',
-    'Outreach',
-    'Food',
-    'Healthcare',
-    'Jobs & Education',
-    'Transitional Housing',
-    'LGBTQ+',
-    'Veterans',
-    'Partner Violence & Human Trafficking',
-    'General Resources'
+    {
+        resource: 'Shelters',
+        description: 'Emergency shelter, bed reservations, and referrals to other social services'
+    },
+    {
+        resource: 'White Flag',
+        description: 'Indoor shelter during extreme weather events'
+    },
+    {
+        resource: 'Family & Children',
+        description: 'Contact information and support services for families and children in need of housing, shelter, and educational assistance'
+    },
+    {
+        resource: 'Outreach',
+        description: 'Volunteer groups working with unhoused people in the community'
+    },
+    {
+        resource: 'Food',
+        description: 'Meals and food assistance resources'
+    },
+    {
+        resource: 'Healthcare',
+        description: 'Medical care resources'
+    },
+    {
+        resource: 'Jobs & Education',
+        description: 'Job training and education resources'
+    },
+    {
+        resource: 'Transitional Housing',
+        description: 'Temporary housing resources'
+    },
+    {
+        resource: 'LGBTQ+',
+        description: 'Group meetings, support, clothing, and more resources'
+
+    },
+    {
+        resource: 'Veterans',
+        description: 'Housing, benefits, support, and more resources for veterans'
+    },
+    {
+        resource: 'Partner Violence & Human Trafficking',
+        description: 'Support services for victims of partner violence and human trafficking'
+    },
+    {
+        resource: 'General Resources',
+        description: 'Get IDs, birth certificates, Social Security cards, and file shelter complaints'
+    }
 ]
 
 
